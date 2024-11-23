@@ -2,8 +2,8 @@
 print("¡Bienvenido al programa de práctica de Python!")
 
 # Declarar variables de diferentes tipos
-numero_entero = 10
-numero_decimal = 3.14
+numero_entero = int(input("Ingrese un numero entero"))
+numero_decimal = float(input("Ingrese un primer decimal"))
 texto = "Python"
 
 # Realizar operaciones matemáticas
